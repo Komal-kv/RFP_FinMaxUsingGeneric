@@ -14,3 +14,8 @@ Console.WriteLine("--------Maximum float value-------------");
 double doubleoutput = MaxCheck.MaximumFloatNumber(22.11, 7.01, 29.02);
 Console.WriteLine(doubleoutput);
 Console.WriteLine();
+
+Console.WriteLine("--------Maximum String value------------");
+string stringoutput = MaxCheck.MaximumString("Komal", "Payal", "Sneha");
+Console.WriteLine(stringoutput);
+Console.WriteLine();
