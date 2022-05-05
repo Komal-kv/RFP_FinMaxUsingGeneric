@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\bin\Debug\net6.0\RFP_FindMaxUsingGeneric.exe
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\bin\Debug\net6.0\RFP_FindMaxUsingGeneric.deps.json
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\bin\Debug\net6.0\RFP_FindMaxUsingGeneric.runtimeconfig.json
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\bin\Debug\net6.0\RFP_FindMaxUsingGeneric.dll
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\bin\Debug\net6.0\RFP_FindMaxUsingGeneric.pdb
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\RFP_FindMaxUsingGeneric.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\RFP_FindMaxUsingGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\RFP_FindMaxUsingGeneric.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\RFP_FindMaxUsingGeneric.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\RFP_FindMaxUsingGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\RFP_FindMaxUsingGeneric.dll
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\refint\RFP_FindMaxUsingGeneric.dll
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\RFP_FindMaxUsingGeneric.pdb
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\RFP_FindMaxUsingGeneric.genruntimeconfig.cache
+C:\Users\Admin\source\repos\RFP_FinMaxUsingGeneric\RFP_FinMaxUsingGeneric\obj\Debug\net6.0\ref\RFP_FindMaxUsingGeneric.dll
